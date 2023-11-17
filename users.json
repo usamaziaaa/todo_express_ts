@@ -1,0 +1,54 @@
+{
+  "muneer": {
+    "username": "muneer",
+    "password": "$2b$10$VRg8cWVuY3BnGtqhttFqFuisQNpZNIInqSPhgJ2UIleAd/hfuPUea"
+  },
+  "sagar": {
+    "username": "sagar",
+    "password": "$2b$10$xcqcTX.M9bOELPM2m1AiN.sHpTNVtlO/aDN3HkcQx4eeOQxOUbb4m"
+  },
+  "usama": {
+    "username": "usama",
+    "password": "$2b$10$prE.Hk.o1gFpkbbDjhofx.kWKfWgs.Py4SAiDTuA0E00zlY73gR/y"
+  },
+  "imran": {
+    "username": "imran",
+    "password": "$2b$10$XUu8lr3TGgbIvlTi9W/E7e/eQP8WO0q4Ea4pZmHiDgjcACyKAkhhO"
+  },
+  "haris": {
+    "username": "haris",
+    "password": "$2b$10$eDz/aXQDeRyFFoBRvY9B5epBUqN.ninbVjgWInnUwkMqtHZx9.Fom"
+  },
+  "areeb": {
+    "username": "areeb",
+    "password": "$2b$10$lTzaHt7hPZaa/DVRtZCd1u2MlyEOkGn8UD6d58IA76xH3KOeWQJ56"
+  },
+  "danish": {
+    "username": "danish",
+    "password": "$2b$10$VCoKTe.HS9S89YRk.B.PRumsdVol9gWbDjIhhMwl6ddxMqmJgdZBe"
+  },
+  "bhabhi": {
+    "username": "bhabhi",
+    "password": "$2b$10$Ch0YKSmERsGqO9jYjcGF3.Z5H59N1uQ7GlkV/5bQLtjnrIxz1u/iu"
+  },
+  "ralph": {
+    "username": "ralph",
+    "password": "$2b$10$S.SERvwlaZAIK8rsBbbmiepRrXnDzFisgVpheewt9c5z5rn2AQsuu"
+  },
+  "umer": {
+    "username": "umer",
+    "password": "$2b$10$WDHrk4Up5TewpyyhF1Bf2.AzDA0hV1gkC61e2vzGvQqxzdpLCDM6G"
+  },
+  "warner": {
+    "username": "warner",
+    "password": "$2b$10$72I8kKFg4X/xtPvZ9OA6deTJWGS/mTWRyWimz4MO85OS3ZkWE98tq"
+  },
+  "bilal": {
+    "username": "bilal",
+    "password": "$2b$10$i5MlC7FVn59Ah.CHT4Vq8O2.3C6F1PepK1KMdShS0fRwtsHt1BXMK"
+  },
+  "john": {
+    "username": "john",
+    "password": "$2b$10$lDn92cJJJDGxR6JpfhsGze.6WZeIE7nKP2sv9bxZXcvOu8f2mevwq"
+  }
+}

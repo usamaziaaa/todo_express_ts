@@ -1,0 +1,62 @@
+{
+  "danish": {
+    "todos": [
+      {
+        "title": "Making GET API",
+        "completed": false,
+        "id": "46602304-3eb9-48f9-a223-879121dff7ea"
+      },
+      {
+        "title": "Making POST API",
+        "completed": false,
+        "id": "3641e686-6307-4d7d-b5bb-d8868ce11738"
+      }
+    ]
+  },
+  "usama": {
+    "todos": [
+      {
+        "title": "Writing Todo Controllers",
+        "completed": true,
+        "id": "8b7330fd-4fe3-46d4-bb69-72f5a58a2d53"
+      },
+      {
+        "title": "JWT Refresh Token",
+        "completed": true,
+        "id": "68379398-c519-484f-9dbe-c8926a64b37f"
+      }
+    ]
+  },
+  "sagar": {
+    "todos": [
+      {
+        "title": "Eat Fries",
+        "completed": false,
+        "id": "6db8cb2d-4729-4272-a9f3-34afd9adb375"
+      },
+      {
+        "title": "Eat Biscuits",
+        "completed": false,
+        "id": "cfa7c460-1016-4bb1-9270-040f470d86d1"
+      }
+    ]
+  },
+  "john": {
+    "todos": [
+      {
+        "title": "Eat Biscuits",
+        "completed": false,
+        "id": "bb82e586-093f-474c-89a6-e6eb84be99dc"
+      }
+    ]
+  },
+  "ralph": {
+    "todos": [
+      {
+        "title": "Eat Biscuits",
+        "completed": false,
+        "id": "0339c4c3-520b-4645-bdc7-a5ade82f3981"
+      }
+    ]
+  }
+}
