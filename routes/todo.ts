@@ -1,5 +1,5 @@
 import express from "express";
-import { verifyToken } from "../middlewares";
+import { verifyToken } from "../middlewares/verifyToken";
 import {
   fetchTodos,
   addTodo,

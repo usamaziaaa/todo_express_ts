@@ -1,11 +1,8 @@
-import { Request, Response, NextFunction } from "express";
+import { Response, NextFunction } from "express";
 import jwt from "jsonwebtoken";
 import { config } from "../config";
 import { HttpStatus } from "../constants";
-
-export interface IGetUserAuthInfoRequest extends Request {
-  username: string;
-}
+import { IGetUserAuthInfoRequest } from './types'
 
 export function verifyToken(
   req: IGetUserAuthInfoRequest,

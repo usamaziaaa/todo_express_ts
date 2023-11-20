@@ -1,16 +1,16 @@
 import jwt from "jsonwebtoken";
 import { config } from "../config";
-import { UserCreditienals } from "./types";
+import { userCredentials } from "./types";
 
 class Auth {
-  static generateAccessToken(user: UserCreditienals) {
+  static generateAccessToken(user: userCredentials) {
     console.log("generateAccessToken-->", user);
     return jwt.sign(user, config.JWT.accessTokenSecret, {
       expiresIn: config.JWT.accessTokenExpireTime,
     });
   }
 
-  static generateRefreshToken(user: UserCreditienals) {
+  static generateRefreshToken(user: userCredentials) {
     return jwt.sign(user, config.JWT.refreshTokenSecret, {
       expiresIn: config.JWT.refreshTokenExpireTime,
     });

@@ -2,10 +2,10 @@ import bcrypt from "bcrypt";
 import { loadFile, saveFile } from "../helpers/helper";
 import { config } from "../config/index";
 import Auth from "./auth";
-import { UserCreditienals } from "./types";
+import { userCredentials } from "./types";
 
 class User {
-  static async signup(user: UserCreditienals) {
+  static async signup(user: userCredentials) {
     const { username, password } = user;
     let users = loadFile(config.Users.filePath);
     if (users[username]) {
@@ -21,7 +21,7 @@ class User {
     }
   }
 
-  static async login(user: UserCreditienals) {
+  static async login(user: userCredentials) {
     const users = loadFile(config.Users.filePath);
     const { username, password } = user;
 

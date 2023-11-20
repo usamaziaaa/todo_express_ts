@@ -1,7 +1,7 @@
 import { Response } from "express";
 import { HttpStatus } from "../constants";
 import Todo from "../services/todo";
-import { IGetUserAuthInfoRequest } from "../middlewares/index";
+import { IGetUserAuthInfoRequest } from "../middlewares/types";
 
 export const addTodo = (req: IGetUserAuthInfoRequest, res: Response) => {
   const username = req.username;
